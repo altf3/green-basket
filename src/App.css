@@ -1,6 +1,10 @@
 .App {
-  text-align: center;
+  text-align: left;
+  min-height: 100vh;
 }
+
+.grad {background-image: linear-gradient(to right, #ffffff 0%, #bfe9ff  51%, #ff6e7f  100%)}
+
 
 .App-logo {
   height: 40vmin;
